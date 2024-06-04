@@ -20,4 +20,5 @@ jobs:
       - name: Run command in the vm
         run: |
           echo "Hola, estoy dentro de un Action"
-          echo "ls"
+          ls -lhrt
+
