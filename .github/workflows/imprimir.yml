@@ -20,11 +20,8 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: imprimir tabla bruta y neta
+      - name: crear tabla de resultados
         run: |
-          echo "tabla desde la fuente"
-          cat datos.csv
-          echo "filtrando datos"
           grep -iv hotmail | grep -v 15 datos.csv > datos_filtrados.csv
 
       - name: Commit results
@@ -38,3 +35,18 @@ jobs:
           git add .
           git diff --cached --exit-code || git commit -m "Add earnings output" --allow-empty
           git push --force-with-lease origin HEAD:main
+
+  viendo_datos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: imprimir tabla bruta y neta
+        run: |
+          echo "tabla desde la fuente"
+          cat datos.csv
+          echo
+          echo "filtrando datos"
+          cat datos_filtrados.csv
+          echo "done, ciao"
