@@ -1,4 +1,4 @@
-name: ejemplo
+name: imprimir datos y filtrar
 
 on:
   schedule:
@@ -19,6 +19,11 @@ jobs:
 
       - name: Run command in the vm
         run: |
-          echo "Hola, estoy dentro de un runner"
-          ls -lhrt
+          echo "tabla desde la fuente"
+          cat data.csv
+          echo "filtrando datos"
+          grep -v hotmail data.csv
+          
+
+
 
