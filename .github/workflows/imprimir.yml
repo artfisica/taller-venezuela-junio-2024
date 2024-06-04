@@ -1,0 +1,24 @@
+name: ejemplo
+
+on:
+  schedule:
+    - cron: '00 0 * * *' # Runs every day at 00:00 UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  check_earnings:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run command in the vm
+        run: |
+          echo "Hola, estoy dentro de un runner"
+          ls -lhrt
+
