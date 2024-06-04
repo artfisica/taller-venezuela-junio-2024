@@ -20,9 +20,9 @@ jobs:
       - name: imprimir tabla bruta y neta
         run: |
           echo "tabla desde la fuente"
-          cat data.csv
+          cat datos.csv
           echo "filtrando datos"
-          grep -iv hotmail data.csv
+          grep -iv hotmail datos.csv
 
 
 
