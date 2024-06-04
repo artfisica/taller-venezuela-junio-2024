@@ -17,13 +17,13 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Run command in the vm
+      - name: imprimir tabla bruta y neta
         run: |
           echo "tabla desde la fuente"
           cat data.csv
           echo "filtrando datos"
-          grep -v hotmail data.csv
-          
+          grep -iv hotmail data.csv
+
 
 
 
