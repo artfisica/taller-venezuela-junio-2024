@@ -22,7 +22,7 @@ jobs:
 
       - name: crear tabla de resultados
         run: |
-          grep -iv hotmail | grep -v 15 datos.csv > datos_filtrados.csv
+          grep -iv hotmail datos.csv | grep -v 15  > datos_filtrados.csv
 
       - name: Commit results
         if: always()
@@ -33,7 +33,7 @@ jobs:
           git pull --rebase origin main
           git stash list | grep "stash@{0}" && git stash apply
           git add .
-          git diff --cached --exit-code || git commit -m "Add earnings output" --allow-empty
+          git diff --cached --exit-code || git commit -m "tabla actualizada" --allow-empty
           git push --force-with-lease origin HEAD:main
 
   viendo_datos:
