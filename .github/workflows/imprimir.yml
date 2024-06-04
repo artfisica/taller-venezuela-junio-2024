@@ -37,6 +37,7 @@ jobs:
           git push --force-with-lease origin HEAD:main
 
   viendo_datos:
+    needs: analizando_datos
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
