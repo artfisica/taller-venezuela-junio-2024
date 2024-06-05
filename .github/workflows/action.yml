@@ -6,7 +6,10 @@ on:
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  check_earnings:
+  analizando_datos:
+    permissions:
+      contents: write
+      
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -28,7 +31,7 @@ jobs:
       - name: analizar datos
         run: |
           pip install pandas
-          python analisis.py > companies-by-cap.txt
+          python analisis.py
 
       - name: commit output
         if: always()
