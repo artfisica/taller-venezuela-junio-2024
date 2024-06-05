@@ -17,8 +17,27 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Run command in the vm
+      - name: descargar data
         run: |
-          echo "Hola, estoy dentro de un Action"
-          ls -lhrt
+          curl -sL "https://companiesmarketcap.com/defense-contractors/largest-companies-by-market-cap/?download=csv" -o data.csv
+          if [ ! -s data.csv ]; then
+            echo "Downloaded CSV file is empty"
+            exit 1
+          fi
+      
+      - name: analizar datos
+        run: |
+          pip install pandas
+          python analisis.py > companies-by-cap.txt
 
+      - name: commit output
+        if: always()
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet || git stash
+          git pull --rebase origin main
+          git stash list | grep "stash@{0}" && git stash apply
+          git add .
+          git diff --cached --exit-code || git commit -m "tabla actualizada" --allow-empty
+          git push --force-with-lease origin HEAD:main
