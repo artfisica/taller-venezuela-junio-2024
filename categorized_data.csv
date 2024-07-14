@@ -1,24 +1,24 @@
 Rank,Name,Symbol,marketcap,price (USD),country,Size Category
 1,Honeywell,HON,140076613632,215.11,United States,Large
-2,Raytheon Technologies,RTX,135237156864,101.28,United States,Large
+2,Raytheon Technologies,RTX,134652772352,101.28,United States,Large
 3,Lockheed Martin,LMT,110338990080,463.73,United States,Large
 4,Safran,SAF.PA,93817660048,223.434,France,Medium
 5,General Dynamics,GD,77889200128,283.89,United States,Medium
 6,Northrop Grumman,NOC,64032030720,432.24,United States,Medium
 7,BAE Systems,BA.L,49923287500,16.4712,United Kingdom,Small
-8,Hindustan Aeronautics,HAL.NS,43968235040,65.7444,India,Small
+8,Hindustan Aeronautics,HAL.NS,43948757527,65.7153,India,Small
 9,L3Harris Technologies,LHX,43823665152,231.04,United States,Small
 10,Thales,HO.PA,34559743050,168.23,France,Small
-11,Bharat Electronics,BEL.NS,29162779640,3.98956,India,Small
+11,Bharat Electronics,BEL.NS,29149860804,3.98779,India,Small
 12,Rheinmetall,RHM.F,24138727646,555.968,Germany,Small
-13,Kongsberg Gruppen,KOG.OL,17379942519,99.0288,Norway,Small
-14,Dassault Aviation,AM.PA,14599925219,185.359,France,Small
-15,Leonardo,LDO.MI,14442264298,25.0273,Italy,Small
+13,Kongsberg Gruppen,KOG.OL,17357520758,98.901,Norway,Small
+14,Dassault Aviation,AM.PA,14617126319,185.359,France,Small
+15,Leonardo,LDO.MI,14398367253,25.0273,Italy,Small
 16,SAAB AB,SAAB-B.ST,13369482537,25.0439,Sweden,Small
 17,Huntington Ingalls Industries,HII,9895392256,250.94,United States,Small
-18,Aselsan,ASELS.IS,8799813973,1.92978,Turkey,Small
+18,Aselsan,ASELS.IS,8810286694,1.93208,Turkey,Small
 19,Elbit Systems,ESLT,8395885568,188.77,Israel,Small
-20,Bharat Dynamics,BDL.NS,7312318110,19.9484,India,Small
+20,Bharat Dynamics,BDL.NS,7311073225,19.9395,India,Small
 21,Leonardo DRS,DRS,7007471104,26.63,United States,Small
 22,AeroVironment,AVAV,4874198016,173.25,United States,Small
 23,Hensoldt,HAG.F,4498527183,38.9483,Germany,Small
@@ -31,4 +31,4 @@ Rank,Name,Symbol,marketcap,price (USD),country,Size Category
 30,"Sturm, Ruger &amp; Co",RGR,719713664,41.36,United States,Small
 31,Avon Protection,AVON.L,504208316,16.8089,United Kingdom,Small
 32,AMMO,POWW,197840464,1.66,United States,Small
-33,TAT Technologies,TATT,149862640,14.79,Israel,Small
+33,TAT Technologies,TATT,149500272,14.79,Israel,Small
