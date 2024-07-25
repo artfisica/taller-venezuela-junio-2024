@@ -1,35 +1,35 @@
 Rank,Name,Symbol,marketcap,price (USD),country,Size Category
-1,Honeywell,HON,141554810880,217.38,United States,Large
-2,Raytheon Technologies,RTX,139558666240,104.97,United States,Large
-3,Lockheed Martin,LMT,119275945984,501.29,United States,Large
-4,Safran,SAF.PA,93693488344,223.139,France,Medium
-5,General Dynamics,GD,80789217280,294.46,United States,Medium
-6,Northrop Grumman,NOC,65522319360,442.3,United States,Medium
-7,BAE Systems,BA.L,49736383108,16.4171,United Kingdom,Small
-8,L3Harris Technologies,LHX,45526994944,240.02,United States,Small
-9,Hindustan Aeronautics,HAL.NS,38811603481,58.0304,India,Small
-10,Thales,HO.PA,32119881572,156.392,France,Small
-11,Bharat Electronics,BEL.NS,26332224460,3.60233,India,Small
-12,Rheinmetall,RHM.F,23202493041,534.404,Germany,Small
-13,Kongsberg Gruppen,KOG.OL,17692402027,100.809,Norway,Small
-14,Leonardo,LDO.MI,14410772893,25.0488,Italy,Small
-15,Dassault Aviation,AM.PA,13800730506,176.036,France,Small
-16,SAAB AB,SAAB-B.ST,12014094609,22.5138,Sweden,Small
-17,Huntington Ingalls Industries,HII,10516466688,266.69,United States,Small
-18,Aselsan,ASELS.IS,8934746120,1.95937,Turkey,Small
-19,Elbit Systems,ESLT,8298481664,186.58,Israel,Small
-20,Leonardo DRS,DRS,7349556224,27.93,United States,Small
-21,Bharat Dynamics,BDL.NS,6430013083,17.5414,India,Small
-22,AeroVironment,AVAV,4825526784,171.52,United States,Small
-23,Hensoldt,HAG.F,4307333640,37.074,Germany,Small
-24,Indra Sistemas,IDR.MC,3723802561,21.4999,Spain,Small
-25,QinetiQ,QQ.L,3505739597,6.14094,United Kingdom,Small
-26,Kratos Defense &amp; Security Solutions,KTOS,3383208960,22.54,United States,Small
-27,Mercury Systems,MRCY,2087198720,35.17,United States,Small
-28,VSE Corporation,VSEC,1723216512,93.59,United States,Small
-29,V2X,VVX,1657889280,52.7,United States,Small
-30,"Sturm, Ruger &amp; Co",RGR,761302528,43.75,United States,Small
-31,Avon Protection,AVON.L,492456706,16.4171,United Kingdom,Small
-32,AMMO,POWW,215717600,1.81,United States,Small
-33,Lubawa,LBW.WA,146126563,0.972427,Poland,Small
-34,TAT Technologies,TATT,145488208,14.3,Israel,Small
+1,Raytheon Technologies,RTX,139372544000,104.83,United States,Large
+2,Honeywell,HON,139125882880,213.65,United States,Large
+3,Lockheed Martin,LMT,122802044928,515.2,United States,Large
+4,Safran,SAF.PA,91300013239,217.438,France,Medium
+5,General Dynamics,GD,78103199744,284.67,United States,Medium
+6,Northrop Grumman,NOC,65495654400,442.12,United States,Medium
+7,BAE Systems,BA.L,49250270797,16.2575,United Kingdom,Small
+8,L3Harris Technologies,LHX,44982611968,237.15,United States,Small
+9,Hindustan Aeronautics,HAL.NS,38739405115,57.9259,India,Small
+10,Thales,HO.PA,32340500822,157.467,France,Small
+11,Bharat Electronics,BEL.NS,26202713599,3.58461,India,Small
+12,Rheinmetall,RHM.F,23472705242,539.096,Germany,Small
+13,Kongsberg Gruppen,KOG.OL,17466272132,99.5206,Norway,Small
+14,Dassault Aviation,AM.PA,14853005062,189.459,France,Small
+15,Leonardo,LDO.MI,13819596833,24.0213,Italy,Small
+16,SAAB AB,SAAB-B.ST,12442617899,23.3169,Sweden,Small
+17,Huntington Ingalls Industries,HII,10461654016,265.3,United States,Small
+18,Aselsan,ASELS.IS,8717787840,1.9118,Turkey,Small
+19,Elbit Systems,ESLT,8179728384,183.91,Israel,Small
+20,Leonardo DRS,DRS,7312716288,27.79,United States,Small
+21,Bharat Dynamics,BDL.NS,6255753490,17.066,India,Small
+22,AeroVironment,AVAV,4791484416,170.31,United States,Small
+23,Hensoldt,HAG.F,4183602750,36.2217,Germany,Small
+24,Indra Sistemas,IDR.MC,3640207283,21.0172,Spain,Small
+25,QinetiQ,QQ.L,3427211235,6.00475,United Kingdom,Small
+26,Kratos Defense &amp; Security Solutions,KTOS,3272136192,21.8,United States,Small
+27,Mercury Systems,MRCY,2062273536,34.75,United States,Small
+28,VSE Corporation,VSEC,1668899968,90.64,United States,Small
+29,V2X,VVX,1623913600,51.62,United States,Small
+30,"Sturm, Ruger &amp; Co",RGR,761650560,43.77,United States,Small
+31,Avon Protection,AVON.L,495605122,16.5221,United Kingdom,Small
+32,AMMO,POWW,209758560,1.76,United States,Small
+33,TAT Technologies,TATT,146171952,14.2,Israel,Small
+34,Lubawa,LBW.WA,143125486,0.952456,Poland,Small
