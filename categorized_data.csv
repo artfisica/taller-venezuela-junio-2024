@@ -1,35 +1,35 @@
 Rank,Name,Symbol,marketcap,price (USD),country,Size Category
-1,Raytheon Technologies,RTX,156289892352,117.49,United States,Large
-2,Honeywell,HON,133020131328,204.75,United States,Large
-3,Lockheed Martin,LMT,129170964480,541.92,United States,Large
-4,Safran,SAF.PA,92393778202,220.043,France,Medium
-5,General Dynamics,GD,82078932992,298.71,United States,Medium
-6,Northrop Grumman,NOC,70829375488,484.32,United States,Medium
-7,BAE Systems,BA.L,50527547079,16.6825,United Kingdom,Medium
-8,L3Harris Technologies,LHX,43042164736,226.89,United States,Small
-9,Hindustan Aeronautics,HAL.NS,39337515025,58.8161,India,Small
-10,Thales,HO.PA,32698363562,159.209,France,Small
-11,Bharat Electronics,BEL.NS,27601954842,3.77603,India,Small
-12,Rheinmetall,RHM.F,23754969447,547.129,Germany,Small
-13,Kongsberg Gruppen,KOG.OL,17651914897,100.578,Norway,Small
-14,Dassault Aviation,AM.PA,15793559159,201.625,France,Small
-15,Leonardo,LDO.MI,13718859718,23.8462,Italy,Small
-16,SAAB AB,SAAB-B.ST,12401068044,23.1148,Sweden,Small
-17,Huntington Ingalls Industries,HII,11040535552,279.98,United States,Small
-18,Aselsan,ASELS.IS,8596056439,1.8851,Turkey,Small
-19,Elbit Systems,ESLT,8042370048,179.98,Israel,Small
-20,Leonardo DRS,DRS,7473620480,28.2,United States,Small
-21,Bharat Dynamics,BDL.NS,6394546685,17.4447,India,Small
-22,AeroVironment,AVAV,5023026176,178.54,United States,Small
-23,Hensoldt,HAG.F,4302156273,37.2481,Germany,Small
-24,QinetiQ,QQ.L,3543918380,6.21511,United Kingdom,Small
-25,Indra Sistemas,IDR.MC,3479031957,20.0867,Spain,Small
-26,Kratos Defense &amp; Security Solutions,KTOS,3383208960,22.54,United States,Small
-27,Mercury Systems,MRCY,2109750272,35.55,United States,Small
-28,V2X,VVX,1639957760,52.13,United States,Small
-29,VSE Corporation,VSEC,1638519424,88.99,United States,Small
-30,"Sturm, Ruger &amp; Co",RGR,784968128,45.11,United States,Small
-31,Avon Protection,AVON.L,505433262,16.8497,United Kingdom,Small
-32,AMMO,POWW,216137744,1.82,United States,Small
-33,TAT Technologies,TATT,150500656,14.795,Israel,Small
-34,Lubawa,LBW.WA,147338425,0.980491,Poland,Small
+1,Raytheon Technologies,RTX,155292221440,116.74,United States,Large
+2,Honeywell,HON,132909686784,204.58,United States,Large
+3,Lockheed Martin,LMT,130825166848,548.86,United States,Large
+4,Safran,SAF.PA,88432454301,208.657,France,Medium
+5,General Dynamics,GD,80633602048,293.45,United States,Medium
+6,Northrop Grumman,NOC,72151425024,493.36,United States,Medium
+7,BAE Systems,BA.L,49568658201,16.3659,United Kingdom,Small
+8,L3Harris Technologies,LHX,43484180480,229.22,United States,Small
+9,Hindustan Aeronautics,HAL.NS,38446095271,57.4873,India,Small
+10,Thales,HO.PA,32212174922,156.736,France,Small
+11,Bharat Electronics,BEL.NS,27164604094,3.7162,India,Small
+12,Rheinmetall,RHM.F,23241298238,535.298,Germany,Small
+13,Kongsberg Gruppen,KOG.OL,17380999626,99.0348,Norway,Small
+14,Dassault Aviation,AM.PA,15727138929,200.777,France,Small
+15,Leonardo,LDO.MI,13797862798,23.3161,Italy,Small
+16,SAAB AB,SAAB-B.ST,12034886542,22.5528,Sweden,Small
+17,Huntington Ingalls Industries,HII,10528691200,267.0,United States,Small
+18,Aselsan,ASELS.IS,8714744135,1.91113,Turkey,Small
+19,Elbit Systems,ESLT,8152803328,183.07,Israel,Small
+20,Leonardo DRS,DRS,7312484352,27.73,United States,Small
+21,Bharat Dynamics,BDL.NS,6349208419,17.321,India,Small
+22,AeroVironment,AVAV,4904864256,174.34,United States,Small
+23,Hensoldt,HAG.F,4166677168,36.0751,Germany,Small
+24,QinetiQ,QQ.L,3414140510,5.98851,United Kingdom,Small
+25,Indra Sistemas,IDR.MC,3402696788,19.6459,Spain,Small
+26,Kratos Defense &amp; Security Solutions,KTOS,3306659072,22.03,United States,Small
+27,Mercury Systems,MRCY,2040315520,34.38,United States,Small
+28,V2X,VVX,1582702336,50.31,United States,Small
+29,VSE Corporation,VSEC,1550140032,84.19,United States,Small
+30,"Sturm, Ruger &amp; Co",RGR,752949952,43.27,United States,Small
+31,Avon Protection,AVON.L,492829385,16.4296,United Kingdom,Small
+32,AMMO,POWW,207824752,1.75,United States,Small
+33,TAT Technologies,TATT,145492384,14.3935,Israel,Small
+34,Lubawa,LBW.WA,141543382,0.941927,Poland,Small
