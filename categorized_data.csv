@@ -1,36 +1,36 @@
 Rank,Name,Symbol,marketcap,price (USD),country,Size Category
-1,Raytheon Technologies,RTX,159987957760,120.27,United States,Large
-2,Lockheed Martin,LMT,138369204224,580.51,United States,Large
-3,Honeywell,HON,132383457280,203.77,United States,Large
-4,Safran,SAF.PA,98179640284,234.264,France,Medium
-5,General Dynamics,GD,84656349184,308.09,United States,Medium
-6,Northrop Grumman,NOC,77969055744,533.14,United States,Medium
-7,BAE Systems,BA.L,50602920216,16.7332,United Kingdom,Medium
-8,L3Harris Technologies,LHX,45098565632,237.73,United States,Small
-9,Hindustan Aeronautics,HAL.NS,35377857984,52.8995,India,Small
-10,Thales,HO.PA,33126906099,161.348,France,Small
-11,Bharat Electronics,BEL.NS,24945645680,3.41264,India,Small
-12,Rheinmetall,RHM.F,23460051064,539.894,Germany,Small
-13,Kongsberg Gruppen,KOG.OL,17173067191,97.85,Norway,Small
-14,Dassault Aviation,AM.PA,16485908652,210.66,France,Small
-15,Leonardo,LDO.MI,13266998014,23.0607,Italy,Small
-16,SAAB AB,SAAB-B.ST,12012275533,22.5104,Sweden,Small
-17,Huntington Ingalls Industries,HII,10514771968,268.13,United States,Small
-18,Elbit Systems,ESLT,8532717056,191.84,Israel,Small
-19,Aselsan,ASELS.IS,7956972158,1.74495,Turkey,Small
-20,Leonardo DRS,DRS,7536631808,28.58,United States,Small
-21,AeroVironment,AVAV,5768126976,204.5,United States,Small
-22,Bharat Dynamics,BDL.NS,5080458407,13.8598,India,Small
-23,Hensoldt,HAG.F,3657899858,31.5603,Germany,Small
-24,Kratos Defense &amp; Security Solutions,KTOS,3556026624,23.55,United States,Small
-25,QinetiQ,QQ.L,3384434500,5.97407,United Kingdom,Small
-26,Indra Sistemas,IDR.MC,3158791206,18.2402,Spain,Small
-27,Mercury Systems,MRCY,2148545024,36.11,United States,Small
-28,V2X,VVX,1719280896,55.12,United States,Small
-29,VSE Corporation,VSEC,1534938624,83.33,United States,Small
-30,"Sturm, Ruger &amp; Co",RGR,711626560,42.22,United States,Small
-31,DroneShield,DRO.AX,710499165,0.814732,Australia,Small
-32,Avon Protection,AVON.L,477922075,15.9326,United Kingdom,Small
-33,TAT Technologies,TATT,197323168,18.2283,Israel,Small
-34,AMMO,POWW,184073344,1.55,United States,Small
-35,Lubawa,LBW.WA,146280540,0.973451,Poland,Small
+1,Raytheon Technologies,RTX,159682002944,120.04,United States,Large
+2,Lockheed Martin,LMT,137921085440,578.63,United States,Large
+3,Honeywell,HON,133357961216,205.27,United States,Large
+4,Safran,SAF.PA,99619367943,237.699,France,Medium
+5,General Dynamics,GD,83716612096,304.67,United States,Medium
+6,Northrop Grumman,NOC,77489373184,529.86,United States,Medium
+7,BAE Systems,BA.L,50302595622,16.6347,United Kingdom,Medium
+8,L3Harris Technologies,LHX,44531351552,234.74,United States,Small
+9,Hindustan Aeronautics,HAL.NS,35094865942,52.4763,India,Small
+10,Thales,HO.PA,33729831489,164.284,France,Small
+11,Bharat Electronics,BEL.NS,25424867639,3.4782,India,Small
+12,Rheinmetall,RHM.F,23440585532,538.121,Germany,Small
+13,Kongsberg Gruppen,KOG.OL,16813250720,95.7998,Norway,Small
+14,Dassault Aviation,AM.PA,16754747234,214.096,France,Small
+15,Leonardo,LDO.MI,13241496738,23.0164,Italy,Small
+16,SAAB AB,SAAB-B.ST,10898588484,20.4234,Sweden,Small
+17,Huntington Ingalls Industries,HII,10090855424,257.32,United States,Small
+18,Elbit Systems,ESLT,8637685760,194.2,Israel,Small
+19,Aselsan,ASELS.IS,8379644876,1.83764,Turkey,Small
+20,Leonardo DRS,DRS,7162173440,27.16,United States,Small
+21,AeroVironment,AVAV,5579710976,197.82,United States,Small
+22,Bharat Dynamics,BDL.NS,4986298544,13.6029,India,Small
+23,Hensoldt,HAG.F,3604255319,31.2057,Germany,Small
+24,Kratos Defense &amp; Security Solutions,KTOS,3506196736,23.22,United States,Small
+25,QinetiQ,QQ.L,3340721046,5.89795,United Kingdom,Small
+26,Indra Sistemas,IDR.MC,3185658440,18.3954,Spain,Small
+27,Mercury Systems,MRCY,2176510208,36.58,United States,Small
+28,V2X,VVX,1723959808,55.27,United States,Small
+29,VSE Corporation,VSEC,1504729856,81.69,United States,Small
+30,DroneShield,DRO.AX,716354439,0.821399,Australia,Small
+31,"Sturm, Ruger &amp; Co",RGR,715166144,42.43,United States,Small
+32,Avon Protection,AVON.L,474772681,15.8276,United Kingdom,Small
+33,TAT Technologies,TATT,196150816,18.12,Israel,Small
+34,AMMO,POWW,180510640,1.52,United States,Small
+35,Lubawa,LBW.WA,149157924,0.992599,Poland,Small
