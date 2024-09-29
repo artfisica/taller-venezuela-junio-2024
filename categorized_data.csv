@@ -3,11 +3,11 @@ Rank,Name,Symbol,marketcap,price (USD),country,Size Category
 2,Lockheed Martin,LMT,138810163200,582.36,United States,Large
 3,Honeywell,HON,134891184128,207.63,United States,Large
 4,Safran,SAF.PA,99108493617,236.48,France,Medium
-5,General Dynamics,GD,82469117952,300.13,United States,Medium
+5,General Dynamics,GD,82567864320,300.13,United States,Medium
 6,Northrop Grumman,NOC,77040394240,526.79,United States,Medium
 7,BAE Systems,BA.L,49206175400,16.2738,United Kingdom,Small
 8,L3Harris Technologies,LHX,44578779136,234.99,United States,Small
-9,Hindustan Aeronautics,HAL.NS,35680298190,53.331,India,Small
+9,Hindustan Aeronautics,HAL.NS,35666430749,53.331,India,Small
 10,Thales,HO.PA,32910758582,160.295,France,Small
 11,Bharat Electronics,BEL.NS,25568635321,3.49787,India,Small
 12,Rheinmetall,RHM.F,23171397447,533.688,Germany,Small
@@ -20,7 +20,7 @@ Rank,Name,Symbol,marketcap,price (USD),country,Size Category
 19,Aselsan,ASELS.IS,7950263565,1.74348,Turkey,Small
 20,Leonardo DRS,DRS,7349403136,27.87,United States,Small
 21,AeroVironment,AVAV,5619481088,199.23,United States,Small
-22,Bharat Dynamics,BDL.NS,4938899502,13.4724,India,Small
+22,Bharat Dynamics,BDL.NS,4938454622,13.4724,India,Small
 23,Hensoldt,HAG.F,3683610496,31.8927,Germany,Small
 24,Kratos Defense &amp; Security Solutions,KTOS,3516766976,23.29,United States,Small
 25,QinetiQ,QQ.L,3336569395,5.8927,United Kingdom,Small
@@ -29,10 +29,10 @@ Rank,Name,Symbol,marketcap,price (USD),country,Size Category
 28,V2X,VVX,1732693376,55.55,United States,Small
 29,VSE Corporation,VSEC,1530149376,83.07,United States,Small
 30,DroneShield,DRO.AX,767522607,0.88007,Australia,Small
-31,"Sturm, Ruger &amp; Co",RGR,704210240,41.78,United States,Small
+31,"Sturm, Ruger &amp; Co",RGR,710610944,41.78,United States,Small
 32,Avon Protection,AVON.L,491307092,16.3788,United Kingdom,Small
 33,MilDef Group,MILDEF.ST,327717026,8.22178,Sweden,Small
 34,TAT Technologies,TATT,199906032,18.4669,Israel,Small
-35,AMMO,POWW,171010080,1.44,United States,Small
+35,AMMO,POWW,172196640,1.44,United States,Small
 36,Lubawa,LBW.WA,148535776,0.988459,Poland,Small
 37,NSE SA,ALNSE.PA,104869645,33.023,France,Small
