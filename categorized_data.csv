@@ -1,38 +1,38 @@
 Rank,Name,Symbol,marketcap,price (USD),country,Size Category
-1,Raytheon Technologies,RTX,165468553216,124.39,United States,Large
-2,Lockheed Martin,LMT,144411574272,605.86,United States,Large
-3,Honeywell,HON,133877702656,206.07,United States,Large
-4,Safran,SAF.PA,97715218156,233.156,France,Medium
-5,General Dynamics,GD,83897958400,305.33,United States,Medium
-6,Northrop Grumman,NOC,79539724288,543.88,United States,Medium
-7,BAE Systems,BA.L,50538041976,16.7135,United Kingdom,Medium
-8,L3Harris Technologies,LHX,46532734976,245.29,United States,Small
+1,Raytheon Technologies,RTX,165002969088,124.04,United States,Large
+2,Lockheed Martin,LMT,143777546240,603.2,United States,Large
+3,Honeywell,HON,132454924288,203.88,United States,Large
+4,Safran,SAF.PA,97350091348,232.491,France,Medium
+5,General Dynamics,GD,83510525952,303.92,United States,Medium
+6,Northrop Grumman,NOC,78807040000,538.87,United States,Medium
+7,BAE Systems,BA.L,51530153856,17.0416,United Kingdom,Medium
+8,L3Harris Technologies,LHX,46413225984,244.66,United States,Small
 9,Hindustan Aeronautics,HAL.NS,35283395024,52.7582,India,Small
-10,Thales,HO.PA,33252039716,161.957,France,Small
-11,Rheinmetall,RHM.F,24803892199,570.7,Germany,Small
+10,Thales,HO.PA,33559192057,163.453,France,Small
+11,Rheinmetall,RHM.F,24913098440,573.803,Germany,Small
 12,Bharat Electronics,BEL.NS,24740890004,3.38463,India,Small
-13,Kongsberg Gruppen,KOG.OL,17402041726,99.1547,Norway,Small
-14,Dassault Aviation,AM.PA,16251758298,207.668,France,Small
-15,Leonardo,LDO.MI,12980110071,22.5621,Italy,Small
-16,SAAB AB,SAAB-B.ST,11579750910,21.6999,Sweden,Small
-17,Huntington Ingalls Industries,HII,10378302464,264.65,United States,Small
-18,Elbit Systems,ESLT,9000449024,202.3,Israel,Small
-19,Aselsan,ASELS.IS,7836209282,1.71847,Turkey,Small
-20,Leonardo DRS,DRS,7831979520,29.7,United States,Small
-21,AeroVironment,AVAV,5954004480,211.09,United States,Small
-22,Bharat Dynamics,BDL.NS,4925127754,13.436,India,Small
-23,Hensoldt,HAG.F,4021509220,34.8183,Germany,Small
-24,Kratos Defense &amp; Security Solutions,KTOS,3747795456,24.82,United States,Small
-25,QinetiQ,QQ.L,3398680876,6.00556,United Kingdom,Small
-26,Indra Sistemas,IDR.MC,3162629504,18.2624,Spain,Small
-27,Mercury Systems,MRCY,2254455040,37.89,United States,Small
-28,V2X,VVX,1767627904,56.67,United States,Small
-29,VSE Corporation,VSEC,1534570112,83.31,United States,Small
-30,DroneShield,DRO.AX,846019255,0.970078,Australia,Small
-31,"Sturm, Ruger &amp; Co",RGR,700835072,41.58,United States,Small
-32,Avon Protection,AVON.L,474772681,15.8276,United Kingdom,Small
-33,MilDef Group,MILDEF.ST,322300245,8.08589,Sweden,Small
-34,TAT Technologies,TATT,186389456,17.21,Israel,Small
+13,Kongsberg Gruppen,KOG.OL,17925411000,102.137,Norway,Small
+14,Dassault Aviation,AM.PA,16321135887,208.555,France,Small
+15,Leonardo,LDO.MI,13451881986,23.3821,Italy,Small
+16,SAAB AB,SAAB-B.ST,11872416967,22.2483,Sweden,Small
+17,Huntington Ingalls Industries,HII,10255558656,261.52,United States,Small
+18,Elbit Systems,ESLT,9023087616,202.32,Israel,Small
+19,Leonardo DRS,DRS,7831979520,29.7,United States,Small
+20,Aselsan,ASELS.IS,7541009481,1.65373,Turkey,Small
+21,AeroVironment,AVAV,5754023936,204.0,United States,Small
+22,Bharat Dynamics,BDL.NS,4928849669,13.436,India,Small
+23,Hensoldt,HAG.F,3837200851,33.2225,Germany,Small
+24,Kratos Defense &amp; Security Solutions,KTOS,3826315008,25.34,United States,Small
+25,QinetiQ,QQ.L,3386797417,5.98457,United Kingdom,Small
+26,Indra Sistemas,IDR.MC,3291207092,19.0049,Spain,Small
+27,Mercury Systems,MRCY,2255046144,37.53,United States,Small
+28,V2X,VVX,1780728448,57.09,United States,Small
+29,VSE Corporation,VSEC,1549490432,84.12,United States,Small
+30,DroneShield,DRO.AX,805317289,0.923407,Australia,Small
+31,"Sturm, Ruger &amp; Co",RGR,691564736,41.03,United States,Small
+32,Avon Protection,AVON.L,478709434,15.9588,United Kingdom,Small
+33,MilDef Group,MILDEF.ST,327537884,8.20237,Sweden,Small
+34,TAT Technologies,TATT,191505728,16.9,Israel,Small
 35,AMMO,POWW,161509520,1.36,United States,Small
-36,Lubawa,LBW.WA,147680356,0.982767,Poland,Small
+36,Lubawa,LBW.WA,153979502,1.02469,Poland,Small
 37,NSE SA,ALNSE.PA,104165824,32.8014,France,Small
