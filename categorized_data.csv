@@ -1,39 +1,39 @@
 Rank,Name,Symbol,marketcap,price (USD),country,Size Category
-1,Raytheon Technologies,RTX,169305194496,125.16,United States,Large
-2,Honeywell,HON,142395555840,208.0,United States,Large
-3,Lockheed Martin,LMT,133771591680,562.29,United States,Large
-4,Safran,SAF.PA,97721682014,228.525,France,Medium
-5,General Dynamics,GD,84047609856,302.52,United States,Medium
-6,Northrop Grumman,NOC,75728494592,519.35,United States,Medium
-7,BAE Systems,BA.L,51187794855,16.7531,United Kingdom,Medium
-8,L3Harris Technologies,LHX,48283426816,252.81,United States,Small
-9,Thales,HO.PA,33799293580,164.29,France,Small
-10,Hindustan Aeronautics,HAL.NS,33439349014,49.5669,India,Small
-11,Bharat Electronics,BEL.NS,23688941417,3.24072,India,Small
-12,Rheinmetall,RHM.F,22940202321,528.363,Germany,Small
+1,Raytheon Technologies,RTX,169318957056,125.16,United States,Large
+2,Honeywell,HON,143148515328,208.0,United States,Large
+3,Lockheed Martin,LMT,134228738048,562.29,United States,Large
+4,Safran,SAF.PA,97121121227,228.525,France,Medium
+5,General Dynamics,GD,83700318208,302.52,United States,Medium
+6,Northrop Grumman,NOC,75666702336,519.35,United States,Medium
+7,BAE Systems,BA.L,51683016763,16.7531,United Kingdom,Medium
+8,L3Harris Technologies,LHX,47949967360,252.81,United States,Small
+9,Thales,HO.PA,34043756845,164.29,France,Small
+10,Hindustan Aeronautics,HAL.NS,33825234709,49.762,India,Small
+11,Bharat Electronics,BEL.NS,23967274459,3.2788,India,Small
+12,Rheinmetall,RHM.F,23085607002,528.363,Germany,Small
 13,Kongsberg Gruppen,KOG.OL,18288033683,104.203,Norway,Small
 14,Dassault Aviation,AM.PA,16299796331,208.32,France,Small
-15,Leonardo,LDO.MI,13582104756,23.544,Italy,Small
-16,SAAB AB,SAAB-B.ST,11634119485,21.7343,Sweden,Small
-17,Huntington Ingalls Industries,HII,10004810752,253.83,United States,Small
-18,Elbit Systems,ESLT,9621041152,210.33,Israel,Small
+15,Leonardo,LDO.MI,13669383192,23.544,Italy,Small
+16,SAAB AB,SAAB-B.ST,11951831293,21.7343,Sweden,Small
+17,Huntington Ingalls Industries,HII,10039103488,253.83,United States,Small
+18,Elbit Systems,ESLT,9534595072,210.33,Israel,Small
 19,Aselsan,ASELS.IS,8115440405,1.77533,Turkey,Small
 20,Leonardo DRS,DRS,7449609728,28.25,United States,Small
 21,AeroVironment,AVAV,6230705152,220.9,United States,Small
-22,Bharat Dynamics,BDL.NS,4598684616,12.2995,India,Small
+22,Bharat Dynamics,BDL.NS,4656043432,12.2561,India,Small
 23,Hensoldt,HAG.F,3953581848,34.2301,Germany,Small
-24,Kratos Defense &amp; Security Solutions,KTOS,3628520960,23.95,United States,Small
-25,QinetiQ,QQ.L,3364877344,5.96473,United Kingdom,Small
-26,Indra Sistemas,IDR.MC,3122986459,18.0335,Spain,Small
+24,Kratos Defense &amp; Security Solutions,KTOS,3625503232,23.95,United States,Small
+25,QinetiQ,QQ.L,3381542868,5.9621,United Kingdom,Small
+26,Indra Sistemas,IDR.MC,3174344973,18.0277,Spain,Small
 27,VSE Corporation,VSEC,2100772096,102.92,United States,Small
-28,Mercury Systems,MRCY,2025037952,33.42,United States,Small
-29,V2X,VVX,1942301952,62.21,United States,Small
-30,"Sturm, Ruger &amp; Co",RGR,686680384,40.67,United States,Small
-31,DroneShield,DRO.AX,541289706,0.610759,Australia,Small
-32,Avon Protection,AVON.L,483864689,16.1307,United Kingdom,Small
-33,MilDef Group,MILDEF.ST,338957574,8.48835,Sweden,Small
+28,Mercury Systems,MRCY,2011101824,33.42,United States,Small
+29,V2X,VVX,1941368832,62.21,United States,Small
+30,"Sturm, Ruger &amp; Co",RGR,685496896,40.67,United States,Small
+31,DroneShield,DRO.AX,553545137,0.624587,Australia,Small
+32,Avon Protection,AVON.L,485205796,16.1236,United Kingdom,Small
+33,MilDef Group,MILDEF.ST,346091080,8.48801,Sweden,Small
 34,Civitanavi Systems,CNS.MI,203943037,6.64366,Italy,Small
-35,TAT Technologies,TATT,201116928,18.42,Israel,Small
-36,Lubawa,LBW.WA,148170359,0.986028,Poland,Small
-37,AMMO,POWW,141548992,1.16,United States,Small
-38,NSE SA,ALNSE.PA,99850260,31.4425,France,Small
+35,TAT Technologies,TATT,200571696,18.42,Israel,Small
+36,Lubawa,LBW.WA,148133530,0.985782,Poland,Small
+37,AMMO,POWW,137758112,1.16,United States,Small
+38,NSE SA,ALNSE.PA,99817905,31.4323,France,Small
