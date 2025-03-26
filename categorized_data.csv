@@ -1,42 +1,42 @@
 Rank,Name,Symbol,marketcap,price (USD),country,Size Category
-1,Raytheon Technologies,RTX,179823280128,134.69,United States,Large
-2,Honeywell,HON,137685336064,211.85,United States,Large
-3,Safran,SAF.PA,113615533986,271.205,France,Large
-4,Lockheed Martin,LMT,102388203520,434.98,United States,Large
-5,General Dynamics,GD,71880925184,265.88,United States,Medium
-6,Northrop Grumman,NOC,71665795072,495.08,United States,Medium
-7,Rheinmetall,RHM.F,61850697933,1424.56,Germany,Medium
-8,BAE Systems,BA.L,61687322640,20.4709,United Kingdom,Medium
-9,Thales,HO.PA,55024704194,264.483,France,Medium
-10,L3Harris Technologies,LHX,39553638400,210.71,United States,Small
-11,Hindustan Aeronautics,HAL.NS,32290917800,48.2837,India,Small
-12,Leonardo,LDO.MI,28861428932,48.4328,Italy,Small
-13,Dassault Aviation,AM.PA,26259968664,335.711,France,Small
-14,Kongsberg Gruppen,KOG.OL,26151100992,148.664,Norway,Small
-15,Bharat Electronics,BEL.NS,25818227009,3.53201,India,Small
-16,SAAB AB,SAAB-B.ST,21142588414,39.3547,Sweden,Small
-17,Elbit Systems,ESLT,17673234432,395.5,Israel,Small
-18,Aselsan,ASELS.IS,14458616210,3.17075,Turkey,Small
-19,Leonardo DRS,DRS,9002114048,33.95,United States,Small
-20,Hensoldt,HAG.F,8658112581,74.5785,Germany,Small
-21,Huntington Ingalls Industries,HII,8056516608,205.89,United States,Small
-22,Bharat Dynamics,BDL.NS,5827012300,15.8964,India,Small
-23,Indra Sistemas,IDR.MC,5065191319,28.837,Spain,Small
-24,Kratos Defense &amp; Security Solutions,KTOS,4971982848,32.53,United States,Small
-25,AeroVironment,AVAV,3631477504,128.69,United States,Small
-26,Mercury Systems,MRCY,2780547072,46.59,United States,Small
-27,QinetiQ,QQ.L,2716755253,4.89028,United Kingdom,Small
-28,VSE Corporation,VSEC,2587859968,125.62,United States,Small
-29,NextVision Stabilized Systems,NXSN.TA,2112698713,25.1509,Israel,Small
-30,V2X,VVX,1599957632,50.65,United States,Small
-31,MilDef Group,MILDEF.ST,967763709,20.6139,Sweden,Small
-32,"Sturm, Ruger &amp; Co",RGR,662773440,39.54,United States,Small
-33,DroneShield,DRO.AX,572851009,0.656853,Australia,Small
-34,Avon Protection,AVON.L,531293835,17.6536,United Kingdom,Small
-35,Red Cat Holdings,RCAT,511989664,5.98,United States,Small
-36,Lubawa,LBW.WA,343969677,2.28901,Poland,Small
-37,TAT Technologies,TATT,274385216,25.08,Israel,Small
+1,Raytheon Technologies,RTX,181118320640,135.66,United States,Large
+2,Honeywell,HON,137860808704,212.12,United States,Large
+3,Safran,SAF.PA,113947799659,274.279,France,Large
+4,Lockheed Martin,LMT,104057094144,442.07,United States,Large
+5,Northrop Grumman,NOC,73336283136,506.62,United States,Medium
+6,General Dynamics,GD,72329707520,267.54,United States,Medium
+7,Rheinmetall,RHM.F,61535875692,1417.31,Germany,Medium
+8,BAE Systems,BA.L,59894452990,20.327,United Kingdom,Medium
+9,Thales,HO.PA,55070262037,268.121,France,Medium
+10,L3Harris Technologies,LHX,39900913664,212.56,United States,Small
+11,Hindustan Aeronautics,HAL.NS,31362366493,46.8947,India,Small
+12,Leonardo,LDO.MI,28862892980,48.8927,Italy,Small
+13,Dassault Aviation,AM.PA,26549987045,339.419,France,Small
+14,Kongsberg Gruppen,KOG.OL,25996497056,147.785,Norway,Small
+15,Bharat Electronics,BEL.NS,25632028150,3.50654,India,Small
+16,SAAB AB,SAAB-B.ST,21520161891,40.0576,Sweden,Small
+17,Elbit Systems,ESLT,18066200576,405.01,Israel,Small
+18,Aselsan,ASELS.IS,14112292239,3.0948,Turkey,Small
+19,Leonardo DRS,DRS,9108176896,34.35,United States,Small
+20,Hensoldt,HAG.F,8465674702,73.2959,Germany,Small
+21,Huntington Ingalls Industries,HII,8092342272,206.25,United States,Small
+22,Bharat Dynamics,BDL.NS,5637645996,15.3758,India,Small
+23,Indra Sistemas,IDR.MC,5169390826,29.4264,Spain,Small
+24,Kratos Defense &amp; Security Solutions,KTOS,5037705216,32.96,United States,Small
+25,AeroVironment,AVAV,3702306560,131.2,United States,Small
+26,Mercury Systems,MRCY,2780543232,46.55,United States,Small
+27,QinetiQ,QQ.L,2702456905,4.88367,United Kingdom,Small
+28,VSE Corporation,VSEC,2581061632,125.29,United States,Small
+29,NextVision Stabilized Systems,NXSN.TA,2014390326,25.0464,Israel,Small
+30,V2X,VVX,1606591104,50.86,United States,Small
+31,MilDef Group,MILDEF.ST,978447839,20.8415,Sweden,Small
+32,"Sturm, Ruger &amp; Co",RGR,662772160,39.39,United States,Small
+33,DroneShield,DRO.AX,544821865,0.623748,Australia,Small
+34,Red Cat Holdings,RCAT,527400704,6.16,United States,Small
+35,Avon Protection,AVON.L,526860277,17.7376,United Kingdom,Small
+36,Lubawa,LBW.WA,349102266,2.32317,Poland,Small
+37,TAT Technologies,TATT,281058880,25.69,Israel,Small
 38,Civitanavi Systems,CNS.MI,203943037,6.64366,Italy,Small
-39,AMMO,POWW,178135504,1.5,United States,Small
-40,NSE SA,ALNSE.PA,156482611,49.2866,France,Small
-41,VEEM Ltd,VEE.AX,76497936,0.562568,Australia,Small
+39,AMMO,POWW,178134608,1.47,United States,Small
+40,NSE SA,ALNSE.PA,171492051,51.7446,France,Small
+41,VEEM Ltd,VEE.AX,78430222,0.576778,Australia,Small
