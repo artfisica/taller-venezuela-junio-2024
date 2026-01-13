@@ -1,50 +1,50 @@
 Rank,Name,Symbol,marketcap,price (USD),country,Size Category
-1,RTX,RTX,252735520768,188.5,United States,Large
-2,Safran,SAF.PA,153927141258,369.211,France,Large
-3,Honeywell,HON,139747098624,207.38,United States,Large
-4,Lockheed Martin,LMT,126752841728,542.92,United States,Large
-5,Rheinmetall,RHM.F,98239812884,2201.54,Germany,Medium
-6,General Dynamics,GD,95592931328,353.89,United States,Medium
-7,Northrop Grumman,NOC,88604491776,618.82,United States,Medium
-8,BAE Systems,BA.L,80259824204,27.5028,United Kingdom,Medium
-9,Thales,HO.PA,63601259111,309.518,France,Medium
-10,L3Harris Technologies,LHX,62820818944,335.77,United States,Medium
-11,SAAB AB,SAAB-B.ST,39759560558,74.0172,Sweden,Small
-12,Leonardo,LDO.MI,39264800986,68.0475,Italy,Small
-13,China State Shipbuilding Corporation (CSSC),600150.SS,38584357345,5.12707,China,Small
-14,Bharat Electronics,BEL.NS,33866403990,4.63303,India,Small
-15,Hindustan Aeronautics,HAL.NS,33078827053,49.4618,India,Small
-16,Elbit Systems,ESLT,31737878528,683.36,Israel,Small
-17,Aselsan,ASELS.IS,29619181709,6.49543,Turkey,Small
-18,Dassault Aviation,AM.PA,27892280954,359.088,France,Small
-19,China National Nuclear Power,601985.SS,26650815724,1.29574,China,Small
-20,Kongsberg Gruppen,KOG.OL,26106062334,29.6797,Norway,Small
-21,AVIC Shenyang Aircraft Company Limited,600760.SS,25357250668,8.94406,China,Small
-22,Kratos Defense &amp; Security Solutions,KTOS,19197188096,113.7,United States,Small
-23,AeroVironment,AVAV,18224756736,364.99,United States,Small
-24,Huntington Ingalls Industries,HII,15186041856,386.99,United States,Small
-25,Hensoldt,HAG.F,12216605140,105.771,Germany,Small
-26,Indra Sistemas,IDR.MC,11947188516,68.1871,Spain,Small
-27,Leonardo DRS,DRS,10908407808,40.99,United States,Small
-28,Hanwha Systems,272210.KS,10074791616,53.8778,South Korea,Small
-29,LIG Nex1,079550.KS,8471218804,387.783,South Korea,Small
-30,NextVision Stabilized Systems,NXSN.TA,6924723711,76.0323,Israel,Small
-31,Bharat Dynamics,BDL.NS,6176353465,16.8494,India,Small
-32,TKMS,TKMS.DE,6094396831,95.939,Germany,Small
-33,Mercury Systems,MRCY,5618161152,93.48,United States,Small
-34,VSE Corporation,VSEC,4711197696,201.4,United States,Small
-35,QinetiQ,QQ.L,3544490172,6.70489,United Kingdom,Small
-36,DroneShield,DRO.AX,2401158243,2.62876,Australia,Small
-37,V2X,VVX,1956943232,62.78,United States,Small
-38,Voyager Technologies,VOYG,1865632000,31.33,United States,Small
-39,H&amp;K AG (Heckler &amp; Koch),MLHK.PA,1816665747,51.1985,Germany,Small
-40,Red Cat Holdings,RCAT,1395448576,11.69,United States,Small
-41,Avon Protection,AVON.L,761533923,25.6943,United Kingdom,Small
-42,TAT Technologies,TATT,663590656,51.24,Israel,Small
-43,MilDef Group,MILDEF.ST,653210549,13.8701,Sweden,Small
-44,"Sturm, Ruger &amp; Co",RGR,600904320,37.18,United States,Small
-45,Lubawa,LBW.WA,350267151,2.33092,Poland,Small
-46,AMMO,POWW,214898384,1.835,United States,Small
-47,NSE SA,ALNSE.PA,172414397,52.2458,France,Small
-48,W5 Solutions AB,W5.ST,105385316,6.00169,Sweden,Small
-49,VEEM Ltd,VEE.AX,74601691,0.508361,Australia,Small
+1,RTX,RTX,259908648960,193.85,United States,Large
+2,Safran,SAF.PA,155221444491,372.316,France,Large
+3,Honeywell,HON,140569214976,208.6,United States,Large
+4,Lockheed Martin,LMT,128695271424,551.24,United States,Large
+5,Rheinmetall,RHM.F,99188940236,2222.81,Germany,Medium
+6,General Dynamics,GD,97497276416,360.94,United States,Medium
+7,Northrop Grumman,NOC,90107912192,629.32,United States,Medium
+8,BAE Systems,BA.L,82201282996,28.1681,United Kingdom,Medium
+9,Thales,HO.PA,64801534268,315.359,France,Medium
+10,L3Harris Technologies,LHX,63739453440,340.68,United States,Medium
+11,SAAB AB,SAAB-B.ST,40735041945,75.8332,Sweden,Small
+12,Leonardo,LDO.MI,39518642600,68.4874,Italy,Small
+13,China State Shipbuilding Corporation (CSSC),600150.SS,39006948160,5.18322,China,Small
+14,Bharat Electronics,BEL.NS,33890851770,4.63637,India,Small
+15,Hindustan Aeronautics,HAL.NS,33541188720,50.1532,India,Small
+16,Elbit Systems,ESLT,33302108160,717.04,Israel,Small
+17,Aselsan,ASELS.IS,29941113512,6.56603,Turkey,Small
+18,Dassault Aviation,AM.PA,28557129202,367.647,France,Small
+19,China National Nuclear Power,601985.SS,27256843611,1.32521,China,Small
+20,Kongsberg Gruppen,KOG.OL,26593884133,30.2343,Norway,Small
+21,AVIC Shenyang Aircraft Company Limited,600760.SS,25482307747,8.98817,China,Small
+22,Kratos Defense &amp; Security Solutions,KTOS,19899566080,117.86,United States,Small
+23,AeroVironment,AVAV,18508869632,370.68,United States,Small
+24,Huntington Ingalls Industries,HII,15627899904,398.25,United States,Small
+25,Hensoldt,HAG.F,12401960349,107.376,Germany,Small
+26,Indra Sistemas,IDR.MC,12044791356,68.7442,Spain,Small
+27,Leonardo DRS,DRS,10982922240,41.27,United States,Small
+28,Hanwha Systems,272210.KS,9904749405,52.9685,South Korea,Small
+29,LIG Nex1,079550.KS,8345048446,382.007,South Korea,Small
+30,NextVision Stabilized Systems,NXSN.TA,7332702268,80.5119,Israel,Small
+31,TKMS,TKMS.DE,6876538702,108.252,Germany,Small
+32,Bharat Dynamics,BDL.NS,6237544182,17.0163,India,Small
+33,Mercury Systems,MRCY,5830915072,97.02,United States,Small
+34,VSE Corporation,VSEC,4878452736,208.55,United States,Small
+35,QinetiQ,QQ.L,3584173371,6.77996,United Kingdom,Small
+36,DroneShield,DRO.AX,2421801451,2.65136,Australia,Small
+37,V2X,VVX,2027702528,65.05,United States,Small
+38,Voyager Technologies,VOYG,1941853184,32.61,United States,Small
+39,H&amp;K AG (Heckler &amp; Koch),MLHK.PA,1780765300,50.1867,Germany,Small
+40,Red Cat Holdings,RCAT,1425291264,11.94,United States,Small
+41,Avon Protection,AVON.L,778242770,26.258,United Kingdom,Small
+42,MilDef Group,MILDEF.ST,699511916,14.8532,Sweden,Small
+43,TAT Technologies,TATT,685088704,52.9,Israel,Small
+44,"Sturm, Ruger &amp; Co",RGR,595247616,36.83,United States,Small
+45,Lubawa,LBW.WA,344023206,2.28937,Poland,Small
+46,AMMO,POWW,223681680,1.91,United States,Small
+47,NSE SA,ALNSE.PA,188729202,57.1895,France,Small
+48,W5 Solutions AB,W5.ST,110461599,6.29078,Sweden,Small
+49,VEEM Ltd,VEE.AX,74862082,0.510136,Australia,Small
