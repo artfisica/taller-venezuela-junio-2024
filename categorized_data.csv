@@ -10,31 +10,31 @@ Rank,Name,Symbol,marketcap,price (USD),country,Size Category
 9,Honeywell Aerospace,HONA,48480509952,152.92,United States,Small
 10,L3Harris Technologies,LHX,48391712768,259.89,United States,Small
 11,Rheinmetall,RHM.F,42725760675,915.525,Germany,Small
-12,China State Shipbuilding Corporation (CSSC),600150.SS,39653036027,5.26907,China,Small
-13,Hindustan Aeronautics,HAL.NS,35262038323,52.7263,India,Small
+12,China State Shipbuilding Corporation (CSSC),600150.SS,39596663559,5.26158,China,Small
+13,Hindustan Aeronautics,HAL.NS,35134585543,52.5357,India,Small
 14,SAAB AB,SAAB-B.ST,32959412029,61.1437,Sweden,Small
-15,Elbit Systems,ESLT,31994966016,682.59,Israel,Small
+15,Elbit Systems,ESLT,32000006144,682.59,Israel,Small
 16,Kongsberg Gruppen,KOG.OL,31498633260,35.8098,Norway,Small
 17,Leonardo,LDO.MI,31146538706,53.9991,Italy,Small
-18,Bharat Electronics,BEL.NS,30647670964,4.19269,India,Small
+18,Bharat Electronics,BEL.NS,30601234422,4.18634,India,Small
 19,Aselsan,ASELS.IS,30491911577,6.68682,Turkey,Small
-20,China National Nuclear Power,601985.SS,29735904880,1.44574,China,Small
+20,China National Nuclear Power,601985.SS,29951608240,1.45622,China,Small
 21,Dassault Aviation,AM.PA,25785697516,338.126,France,Small
-22,AVIC Shenyang Aircraft Company Limited,600760.SS,20781612343,7.33056,China,Small
+22,AVIC Shenyang Aircraft Company Limited,600760.SS,20365384903,7.18374,China,Small
 23,CSG N.V. (The Czechoslovak Group),CSG.AS,14639405989,14.6394,Czech Republic,Small
 24,Huntington Ingalls Industries,HII,11378105344,288.74,United States,Small
 25,Indra Sistemas,IDR.MC,11140951819,63.761,Spain,Small
 26,Hensoldt,HAG.F,10068298614,87.1714,Germany,Small
 27,Leonardo DRS,DRS,9075781632,34.04,United States,Small
-28,Hanwha Systems,272210.KS,7097723284,37.9571,South Korea,Small
-29,Kratos Defense &amp; Security Solutions,KTOS,6608330240,35.1,United States,Small
+28,Hanwha Systems,272210.KS,7267052816,38.8626,South Korea,Small
+29,Kratos Defense &amp; Security Solutions,KTOS,6608399872,35.1,United States,Small
 30,AeroVironment,AVAV,5730542592,112.76,United States,Small
 31,TKMS,TKMS.DE,5580261540,87.8454,Germany,Small
-32,LIG Defense & Aerospace,079550.KS,5374025766,246.004,South Korea,Small
+32,LIG Defense & Aerospace,079550.KS,4953664849,226.762,South Korea,Small
 33,NextVision Stabilized Systems,NXSN.TA,4857493070,52.4425,Israel,Small
 34,VSE Corporation,VSEC,4850988032,172.81,United States,Small
 35,Mercury Systems,MRCY,4476516864,73.55,United States,Small
-36,Bharat Dynamics,BDL.NS,4113883239,11.2229,India,Small
+36,Bharat Dynamics,BDL.NS,4105150887,11.199,India,Small
 37,QinetiQ,QQ.L,3490272782,6.86673,United Kingdom,Small
 38,V2X,VVX,2387114496,76.14,United States,Small
 39,Lyntris Inc.,LYNX,1691701504,14.59,United States,Small
@@ -44,13 +44,13 @@ Rank,Name,Symbol,marketcap,price (USD),country,Size Category
 43,MilDef Group,MILDEF.ST,1158009237,24.5888,Sweden,Small
 44,Vincorion SE,V1NC.DE,983767618,19.6754,Germany,Small
 45,Avon Protection,AVON.L,920511739,31.255,United Kingdom,Small
-46,DroneShield,DRO.AX,828396223,0.8948,Australia,Small
+46,DroneShield,DRO.AX,815401830,0.880764,Australia,Small
 47,"Sturm, Ruger &amp; Co",RGR,797794304,49.93,United States,Small
 48,AEVEX Corp.,AVEX,705815616,10.2,United States,Small
 49,Red Cat Holdings,RCAT,616966016,4.04,United States,Small
 50,The Elmet Group,ELMT,597615360,19.62,United States,Small
 51,TAT Technologies,TATT,480931072,37.0,Israel,Small
-52,Snt Dynamics,003570.KS,456926767,18.3371,South Korea,Small
+52,Snt Dynamics,003570.KS,468208951,18.7899,South Korea,Small
 53,Lubawa,LBW.WA,385014685,2.56215,Poland,Small
 54,Gabler Group AG,XK4.F,282722960,46.7311,Germany,Small
 55,Outdoor Holding Company,POWW,266940128,2.3,United States,Small
@@ -60,6 +60,6 @@ Rank,Name,Symbol,marketcap,price (USD),country,Size Category
 59,Swarmer,SWMR,101488256,7.1,United States,Small
 60,"Merlin, Inc.",MRLN,87908752,0.8698,United States,Small
 61,Quantum Cyber N.V.,QUCY,62283252,0.7141,Germany,Small
-62,VEEM Ltd,VEE.AX,49434833,0.336866,Australia,Small
+62,VEEM Ltd,VEE.AX,49949783,0.340375,Australia,Small
 63,First Breach Inc.,FBDT,48023308,0.861,United States,Small
 64,W5 Solutions AB,W5.ST,42796343,2.18803,Sweden,Small
